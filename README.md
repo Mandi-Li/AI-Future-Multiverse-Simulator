@@ -156,4 +156,4 @@ All code is implemented in Python using scientific computing libraries including
 
 ## License
 
-This project is provided for educational and research purposes. Feel free to use and modify the code with appropriate attribution.
+This project is provided for educational and research purposes. Feel free to use and modify the code with appropriate attribution. BUT PLEASE CITE ME!
