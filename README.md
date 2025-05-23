@@ -4,7 +4,7 @@
 # University of Cambridge 
 The Many-Worlds Interpretation of Quantum Mechanics holds that "every time a quantum experiment with different possible outcomes is performed, all outcomes are obtained, each in a different newly created world, even if we are only aware of the world with the outcome we have seen." Thus, parallel universes exist. (https://plato.stanford.edu/entries/qm-manyworlds/) 
 
-Inspired by the theory, this project simulates four possible AI futures based on current geopolitical, technical, economic, and social factors. It uses system dynamics modelling and Monte Carlo simulation to project different trajectories of AI development and their societal impacts from 2025 to 2050. The project aims to provide computational contributions to AI governance and policy making.
+Inspired by the theory, this project simulates four possible AI futures based on current geopolitical, technical, economic, and social factors. It uses system dynamics modelling and Monte Carlo simulation to project different trajectories of AI development and their societal impacts from 2025 to 2050. The project provides computational contributions to AI governance and policy making.
 
 ## Overview
 
