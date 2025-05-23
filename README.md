@@ -128,7 +128,7 @@ The simulation identifies several critical factors that determine which future b
 
 The simulation also reveals complex relationships between factors within each universe:
 
-![Symbiotic Harmony Network](symbiotic_harmony_network.png) (you must run the code to access the png)
+![Symbiotic Harmony Network](symbiotic_harmony_network.png) 
 
 
 These network diagrams show how different factors influence each other, creating feedback loops that can either stabilize or destabilize the system.
