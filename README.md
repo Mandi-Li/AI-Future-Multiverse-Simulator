@@ -2,7 +2,7 @@
 
 # Mandi Li
 # University of Cambridge 
-This project simulates four possible AI futures based on current geopolitical, technical, economic, and social factors. It uses system dynamics modelling and Monte Carlo simulation to project different trajectories of AI development and their societal impacts from 2025 to 2050. The project aims to provide computational insights to AI governance and policy making.
+This project simulates four possible AI futures based on current geopolitical, technical, economic, and social factors. It uses system dynamics modelling and Monte Carlo simulation to project different trajectories of AI development and their societal impacts from 2025 to 2050. The project aims to provide computational contributions to AI governance and policy making.
 
 ## Overview
 
