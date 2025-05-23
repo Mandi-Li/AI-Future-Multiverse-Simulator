@@ -81,7 +81,7 @@ The simulation was run with default parameters representing the current (2025) s
 
 ### Overall Trajectory Comparison
 
-![All Universes Comparison](all_universes_comparison.png) (you must run the code to access the png)
+![All Universes Comparison](all_universes_comparison.png) 
 
 The comparison shows that different initial conditions and internal dynamics lead to dramatically different futures. The **Symbiotic Harmony** scenario shows the most balanced and positive trajectory, while **Digital Authoritarianism** shows rapid early growth followed by resistance and instability.
 
