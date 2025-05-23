@@ -15,7 +15,7 @@ The simulation explores four distinct future scenarios:
 
 Each scenario evolves based on the interaction of key factors specific to that universe, influenced by current status parameters and internal dynamics.
 
-## How to Run in Google Colab
+## How to Run in Google Colab (please cite me if you are using my code)
 
 1. Open Google Colab: [https://colab.research.google.com/](https://colab.research.google.com/)
 2. Create a new notebook
