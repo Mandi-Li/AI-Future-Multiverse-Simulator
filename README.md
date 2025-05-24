@@ -1,4 +1,4 @@
-# Many-Worlds Interpretation of AI Development: Multiverse Simulation 
+# The Many-Worlds Interpretation of AI Development: Multiverse Simulation 
 
 # Mandi Li
 # University of Cambridge 
